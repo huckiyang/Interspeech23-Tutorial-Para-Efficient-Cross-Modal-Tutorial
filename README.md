@@ -34,12 +34,21 @@ Resource Efficient and Cross-Modal Learning Toward Foundation Modeling Tutorial
 #### 1.4 Advanced Low-Rank Adaptation (LoRA) Techniques
 
 - Cross-Modal Merging
-- Low-Rank for Pre-Training
+- Low-Rank Adaptation (LoRA) for Foundation Modeling and Pre-Training
 
 #### 1.5 Community Service
 
 - Special Session in ICASSP 2024: In-Context Learning for Speech and Language Processing
 - icassp24-icl-sp@googlegroups.com
+
+#### Break: Hand-on Session 1 (5 min)
+
+- How to Train Your Whisper with Neural Adapter and LoRA
+
+
+## Part 2: Multi-Modal and Cross-Modal Learning
+
+## Part 3: Neural Model Reprogramming and On-Device Tuning
 
 
 
