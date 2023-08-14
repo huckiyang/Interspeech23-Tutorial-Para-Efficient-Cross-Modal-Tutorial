@@ -3,7 +3,7 @@
 (Now) Interspeech 23 - `Resource Efficient and Cross-Modal Learning Toward Foundation Modeling Tutorial`
 
 - ICASSP 22 Tutorial `Neural Model Reprogramming and Prompting for Speech Modeling` - [Video](https://www.youtube.com/watch?v=-iirkbYkyXI) | [Slide](https://docs.google.com/presentation/d/1sXcxYiTHY_URovr2irb6QvQj7xFIQd1tzObz4SpyEfo/edit) 
-- ICASSP 23 Tutorial `Parameter-Efficient Learning (PEL) for Speech and Language: Adapters, Prompts, and Reprogramming` [Slides Huck](https://docs.google.com/presentation/d/16ypY73W0xC0WQxkPUtjchxjhzY8XehTEgRSuMJD4QdM/edit?usp=sharing)
+- ICASSP 23 Tutorial `Parameter-Efficient Learning (PEL) for Speech and NLP: Adapters, Prompts, and Reprogramming` [Slide](https://docs.google.com/presentation/d/16ypY73W0xC0WQxkPUtjchxjhzY8XehTEgRSuMJD4QdM/edit?usp=sharing)
 
 ## Part 1. Overview of Resource Efficient Learning
 
