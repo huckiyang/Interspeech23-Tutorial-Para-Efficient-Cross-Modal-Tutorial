@@ -1,2 +1,2 @@
-# Para_Efficient_Cross_Modal_Tutorial
+# Interspeech 2023 Tutorial
 Resource Efficient and Cross-Modal Learning Toward Foundation Modeling Tutorial
