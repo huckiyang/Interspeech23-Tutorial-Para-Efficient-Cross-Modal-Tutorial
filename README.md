@@ -15,6 +15,7 @@ Resource Efficient and Cross-Modal Learning Toward Foundation Modeling Tutorial
 
 #### How to Estimate which Layer or which Model to Tune?
 
+| Title | Authors | Code | Year |
 |[How to Estimate Model Transferability of Pre-Trained Speech Models?](https://arxiv.org/pdf/2306.01015.pdf)|Z.-C. Chen et al.|[code](https://github.com/virginiakm1988/LogME-CTC)|Interspeech 2023|
 
 
