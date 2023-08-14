@@ -5,4 +5,4 @@ Resource Efficient and Cross-Modal Learning Toward Foundation Modeling Tutorial
 
 ### Parameter-Efficient Learning
 
-### Resource-Efficient Learning
+### Memory-Efficient Learning
