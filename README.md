@@ -3,7 +3,10 @@ Resource Efficient and Cross-Modal Learning Toward Foundation Modeling Tutorial
 
 ## Part 1. Overview of Resource Efficient Learning
 
-### Parameter-Efficient Learning
+### 1.1. Parameter-Efficient Learning
+
+- Background of Frozen Model Adaptation
+- Neural Adapter, Reprogramming, Prompting, and Low-Rank Adaptation (LoRA) 
 
 | Title | Authors | Code | Year |
 | ----- | ------- | -------- | ---- |
@@ -11,9 +14,11 @@ Resource Efficient and Cross-Modal Learning Toward Foundation Modeling Tutorial
 |[Parameter-Efficient Learning for Text-to-Speech Accent Adaptation](https://arxiv.org/abs/2305.11320)|L.-J. Yang et al.|[code](https://tts-research.github.io/)|Interspeech 2023|
 |[A Parameter-Efficient Learning Approach to Arabic Dialect Identification with Pre-Trained General-Purpose Speech Model](https://arxiv.org/pdf/2305.11244)|S. Radhakrishnan et al.|[code](https://github.com/Srijith-rkr/KAUST-Whisper-Adapter)|Interspeech 2023|
 
-### Memory-Efficient Learning
+### 1.2. Memory-Efficient Learning
 
-#### How to Estimate which Layer or which Model to Tune?
+
+
+#### 1.3 How to Estimate which Layer or which Model to Tune?
 
 | Title | Authors | Code | Year |
 | ----- | ------- | -------- | ---- |
