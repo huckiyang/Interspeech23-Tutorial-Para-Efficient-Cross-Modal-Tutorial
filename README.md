@@ -23,6 +23,10 @@ Resource Efficient and Cross-Modal Learning Toward Foundation Modeling Tutorial
 
 #### 1.3 How to Estimate which Layer or which Model to Tune?
 
+- Universal Approximation Theory (IEEE TIP 1993)
+- LogME: Practical Assessment of Pre-trained Models for Transfer Learning (ICML 2021)
+- Latent Space Alignment in "Reprogramming Acoustic Models for Time Series Classification" (ICML 2021)
+
 | Title | Authors | Code | Year |
 | ----- | ------- | -------- | ---- |
 |[How to Estimate Model Transferability of Pre-Trained Speech Models?](https://arxiv.org/pdf/2306.01015.pdf)|Z.-C. Chen et al.|[code](https://github.com/virginiakm1988/LogME-CTC)|Interspeech 2023|
