@@ -38,7 +38,7 @@ Resource Efficient and Cross-Modal Learning Toward Foundation Modeling Tutorial
 
 #### 1.5 Community Service
 
-- Special Session Call in ICASSP 2024: In-Context Learning for Speech and Language Processing
+- Special Session in ICASSP 2024: In-Context Learning for Speech and Language Processing
 - icassp24-icl-sp@googlegroups.com
 
 
