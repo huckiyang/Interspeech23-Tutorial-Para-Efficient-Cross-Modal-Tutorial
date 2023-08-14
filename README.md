@@ -36,9 +36,10 @@ Resource Efficient and Cross-Modal Learning Toward Foundation Modeling Tutorial
 - Cross-Modal Merging
 - Low-Rank for Pre-Training
 
-#### 1.5 
+#### 1.5 Community Service
 
 - Special Session Call in ICASSP 2024: In-Context Learning for Speech and Language Processing
+- icassp24-icl-sp@googlegroups.com
 
 
 
