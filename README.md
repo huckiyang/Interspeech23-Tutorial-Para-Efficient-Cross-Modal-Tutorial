@@ -16,7 +16,9 @@ Resource Efficient and Cross-Modal Learning Toward Foundation Modeling Tutorial
 
 ### 1.2. Memory-Efficient Learning
 
-
+- Reduce to GPU / TPU Memory During the Training (e.g., the Memory of Activation)
+- Model Serialization
+- Ladder-Side Tuning (NeurRIPS 2023)
 
 #### 1.3 How to Estimate which Layer or which Model to Tune?
 
