@@ -1,8 +1,8 @@
 # Interspeech 2023 Tutorial
 Resource Efficient and Cross-Modal Learning Toward Foundation Modeling Tutorial, Interspeech 23
 
-- ICASSP 22 Tutorial: `Neural Model Reprogramming and Prompting for Speech Modeling` [Video]() | Slide 
-- ICASSP 23 Tutorial: [Slides 1] |
+- ICASSP 22 Tutorial `Neural Model Reprogramming and Prompting for Speech Modeling` - [Video](https://www.youtube.com/watch?v=-iirkbYkyXI) | [Slide](https://docs.google.com/presentation/d/1sXcxYiTHY_URovr2irb6QvQj7xFIQd1tzObz4SpyEfo/edit) 
+- ICASSP 23 Tutorial: [Slides Huck]()
 
 ## Part 1. Overview of Resource Efficient Learning
 
