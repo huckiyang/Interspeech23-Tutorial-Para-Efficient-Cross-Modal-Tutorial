@@ -7,6 +7,6 @@ Resource Efficient and Cross-Modal Learning Toward Foundation Modeling Tutorial
 
 ### Memory-Efficient Learning
 
-### How to Estimate which Layer or which Model to Tune?
+#### How to Estimate which Layer or which Model to Tune?
 
 
