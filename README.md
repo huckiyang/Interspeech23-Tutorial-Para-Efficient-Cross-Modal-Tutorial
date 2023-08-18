@@ -50,9 +50,9 @@
 - How to Train Your Whisper with Neural Adapter and LoRA
 
 
-## Part 2: Multi-Modal and Cross-Modal Learning, Dr. Shalini Ghosh
+## Part 2: Trustworthy AI and Cross-Modal Learning in the Era of Foundation Models, Dr. Pin-Yu Chen
 
-## Part 3: Neural Model Reprogramming and On-Device Tuning, Dr. Pin-Yu Chen
+## Part 3: Multimodal Pre-Training for Automatic Speech Recognition and Vision Sharing, Dr. Shalini Ghosh
 
 
 
