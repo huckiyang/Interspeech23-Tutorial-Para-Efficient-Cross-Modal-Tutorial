@@ -7,6 +7,8 @@
 
 ## Part 1. Overview of Resource Efficient Learning, Dr. Huck Yang
 
+- 9:00
+
 ### 1.1. Parameter-Efficient Learning
 
 - Background of Frozen Model Adaptation
@@ -52,8 +54,12 @@
 
 ## Part 2: Trustworthy AI and Cross-Modal Learning in the Era of Foundation Models, Dr. Pin-Yu Chen
 
+- 11:00 to 11:45
+
 ## Part 3: Multimodal Pre-Training for Automatic Speech Recognition and Vision Sharing, Dr. Shalini Ghosh
 
+- 11:45 to 12:20
 
+## QA and Discussion
 
 
