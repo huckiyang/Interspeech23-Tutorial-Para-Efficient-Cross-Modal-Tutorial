@@ -60,6 +60,10 @@
 
 `11:45 to 12:20`
 
-## QA and Discussion
+### Spotlight Invited Talk, "Prompting LLM for ASR," by Dr. Chunyang Wu, Meta AI
 
 `12:20 to 12:30`
+
+## QA and Plenary Discussion
+
+`12:40 to 12:45`
